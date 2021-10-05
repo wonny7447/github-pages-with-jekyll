@@ -1,5 +1,5 @@
 ---
-title: jiwon-title
+title: "Your blog post title"
 date: 2021-10-05
 ---
 
