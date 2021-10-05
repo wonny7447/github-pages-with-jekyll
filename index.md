@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+안녕하세요 백지원입니다.
